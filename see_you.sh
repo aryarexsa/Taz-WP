@@ -23,7 +23,7 @@ figlet Taz-WP | lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo "Keluar Dari Galaxy Xploit Tools" | lolcat
+echo "Keluar Dari Taz-WP Tools" | lolcat
 sleep 1
 echo "" 
 figlet Taz-WP | lolcat
