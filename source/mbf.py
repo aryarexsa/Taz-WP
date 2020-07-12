@@ -93,7 +93,7 @@ def maju_bareng(url):
             
             mon_x.clear()
     except requests.exceptions.ConnectionError as e:
-        print(colored("[-] Cek koneksi anda")
+        print("[-] Cek koneksi anda")
     except Exception as e:
         print("[?] Sesuatu bermasalah")
 
